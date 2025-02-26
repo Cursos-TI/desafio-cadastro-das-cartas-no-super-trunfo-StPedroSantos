@@ -1,17 +1,17 @@
-include <stdio.h>
+#include <stdio.h>
 
 //É de suma importância ler as declarações comentadas para poder entender o que está acontecendo no código e o que ele está te pedindo.
 // Cadrasto da carta 1.
 // Pais Brasil, estado Goias, cidade Goiânia . 
 // Definindo as variáveis .
 int main() {
-    char estado[50]= //Estado " Goias".
-    char codigodacidade[50]= // Nomeclatura do codigo da carta "G1".
-    char nomeCidade[50]= // Cidade de "Goiânia".
-    int populacao= // População de Goiânia "143.7237".
-    float area=  // Tamanho da Área "728.296 km²".
-    float pib=  // Valor do Pib "59.000.000.000".
-    int turismo=  //Quantidades de pontos turistico "15".
+    char estado[50];  //Estado " Goias".
+    char codigodacidade[50]; // Nomeclatura do codigo da carta "G1".
+    char nomeCidade[50]; // Cidade de "Goiânia".
+    int populacao; // População de Goiânia "143.7237".
+    float area;  // Tamanho da Área "728.296 km²".
+    float pib=; // Valor do Pib "59.000.000.000".
+    int turismo;  //Quantidades de pontos turistico "15".
 
 // Utilizei as "" apenas para destaca os valores ,nomes da ciadade e estado elas não são relevantes para roda o código.
 
